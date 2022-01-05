@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Artificial intelligence and Machine learning.
 
 <!---
-SaiSwarup27/SaiSwarup27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SaiSwarup27/My self is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
